@@ -1,0 +1,17 @@
+#dataform{
+
+    float: left;
+    padding:18px;
+    border:1px solid back ;
+}
+#data{
+    float: left;
+    width: 300px;
+    margin-left:5px;
+    padding: 15px;
+    border: 1px solid black;
+}
+#key #text{
+    width: 200px;
+
+}
